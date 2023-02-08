@@ -14,7 +14,7 @@ const Form = () => {
       .then((result) => {
           console.log(result.text);
           console.log("Message sent");
-          alert("Messange sent!")
+          alert("Messange sent!");
       }, (error) => {
           console.log(error.text);
       });
