@@ -80,8 +80,9 @@
         display: initial;    
     }
 
-    .logo{
-        height:45px;
+    .logo h3{
+        font-size:1rem;
     }
+
 }
 
