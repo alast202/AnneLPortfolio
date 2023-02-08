@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AnneLPortfolio/static/css/main.ee7c9f01.css",
+    "main.js": "/AnneLPortfolio/static/js/main.75bcb100.js",
+    "static/media/IntroImg.png": "/AnneLPortfolio/static/media/IntroImg.eafa7de46cee0cb4b087.png",
+    "static/media/weather-screenshot.png": "/AnneLPortfolio/static/media/weather-screenshot.b62c5d7c06aeb6516fe9.png",
+    "static/media/background2.jpg": "/AnneLPortfolio/static/media/background2.ea6843345e9b74c9479c.jpg",
+    "static/media/blog-screenshot.png": "/AnneLPortfolio/static/media/blog-screenshot.cf1d8349b7ae00261b4d.png",
+    "static/media/memory-screenshot.png": "/AnneLPortfolio/static/media/memory-screenshot.eecaa623f3018611b7b5.png",
+    "static/media/react1.jpg": "/AnneLPortfolio/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/react2.webp": "/AnneLPortfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "static/media/logo1.png": "/AnneLPortfolio/static/media/logo1.11235813df0809b9898d.png",
+    "index.html": "/AnneLPortfolio/index.html",
+    "main.ee7c9f01.css.map": "/AnneLPortfolio/static/css/main.ee7c9f01.css.map",
+    "main.75bcb100.js.map": "/AnneLPortfolio/static/js/main.75bcb100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee7c9f01.css",
+    "static/js/main.75bcb100.js"
+  ]
+}
