@@ -11,6 +11,10 @@ label{
     max-width: 600px;
 }
 
+.formContainer .iconLinks{
+    padding-bottom: 1rem;
+}
+
 .formContainer input, .formContainer textarea{
     margin-bottom: 1rem;
     padding: 10px 18px;

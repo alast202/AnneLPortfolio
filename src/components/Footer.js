@@ -43,15 +43,20 @@ const Footer = () => {
               <p> I love to create beautiful and performant products with delighful user experiences. </p>
               <div className="social">
               <h4>
+                  <a href= "https://www.linkedin.com/in/anne-last/" target="_blank" >
                   <FaLinkedin 
                     size ={40} 
                     style ={{ color:"#fff", 
-                    marginRight:"1rem"}}/> 
-              
+                    marginRight:"1rem"}}
+                    />
+                  </a>
+
+                  <a href ="https://github.com/alast202" target="_blank" >
                   <FaGithub
                     size ={40} 
                     style ={{ color:"#fff", 
                     marginRight:"1rem"}}/>
+                  </a>
               </h4>         
               </div>
             </div>

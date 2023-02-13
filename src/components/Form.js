@@ -2,8 +2,12 @@ import React from 'react';
 import "./Form.css";
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
+import { FaLinkedin, FaGithub } from 'react-icons/fa';
+
 
 const Form = () => {
+
+  
 
   const form = useRef();
 
@@ -15,6 +19,7 @@ const Form = () => {
           console.log(result.text);
           console.log("Message sent");
           alert("Messange sent!");
+          window.location.reload();
       }, (error) => {
           console.log(error.text);
       });
@@ -22,8 +27,28 @@ const Form = () => {
 
 
   return (
+    
+    
     <form className="formContainer" ref={form} onSubmit={sendEmail}>
-      
+
+        <div className='iconLinks'>
+        <a href= "https://www.linkedin.com/in/anne-last/" target="_blank"  >
+                    <FaLinkedin 
+                      size ={40} 
+                      style ={{ color:"#fff", 
+                      marginRight:"1rem"}}
+                      
+                      />
+                  </a>
+
+                  <a href ="https://github.com/alast202" target="_blank">
+                    <FaGithub
+                      size ={40} 
+                      style ={{ color:"#fff", 
+                      marginRight:"1rem"}}/>
+                  </a>
+        </div>
+
         <label>Your Name</label>
         <input type ="text" name="user_name"></input>
         <label>Email</label>
