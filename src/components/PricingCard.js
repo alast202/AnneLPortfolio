@@ -10,7 +10,7 @@ const PricingCard = () => {
         <div className='card'>
                 <h3>- Email Template -</h3>
                 <span className='bar'></span>
-                <p className='btc'>£ 25</p>
+                <p className='btc'>£ 25-50</p>
                 <p>- 1 Day -</p>
                 <p>- Aligned with a brand -</p>
                 <p>- Featured -</p>
@@ -23,10 +23,10 @@ const PricingCard = () => {
             <div className='card'>
                 <h3>- Landing Page -</h3>
                 <span className='bar'></span>
-                <p className='btc'>£ 50</p>
-                <p>- 2 days -</p>
+                <p className='btc'>£ 120-160</p>
+                <p>- 2-4 Days -</p>
                 <p>- 1 Page -</p>
-                <p>- Featured -</p>
+                <p>- up to 8 sections -</p>
                 <p>- Responsive Design -</p>
                 <Link to="/contact" className='btn'>
                     PURCHASE NOW
@@ -34,11 +34,11 @@ const PricingCard = () => {
             </div>
 
             <div className='card'>
-                <h3>- Basic -</h3>
+                <h3>- Website -</h3>
                 <span className='bar'></span>
-                <p className='btc'>£ 100</p>
-                <p>- 3 Days -</p>
-                <p>- 3 Pages -</p>
+                <p className='btc'>£ 200-280</p>
+                <p>- 3-5 Days -</p>
+                <p>- 3-6 Pages -</p>
                 <p>- Featured -</p>
                 <p>- Responsive Design -</p>
                 <Link to="/contact" className='btn'>

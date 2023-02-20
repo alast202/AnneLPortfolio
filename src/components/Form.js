@@ -29,7 +29,7 @@ const Form = () => {
   return (
     
     
-    <form className="formContainer" ref={form} onSubmit={sendEmail}>
+    <form className="formContainer" ref={form} onSubmit={sendEmail} >
 
         <div className='iconLinks'>
         <a href= "https://www.linkedin.com/in/anne-last/" target="_blank"  >
@@ -48,15 +48,16 @@ const Form = () => {
                       marginRight:"1rem"}}/>
                   </a>
         </div>
+        <p className='info'>Please share as much info as possible about your project so we can discuss your design and functionality requirements. </p>
 
         <label>Your Name</label>
-        <input type ="text" name="user_name"></input>
+        <input type ="text" name="user_name" required></input>
         <label>Email</label>
-        <input type ="text" name="user_email"></input>
+        <input type ="email" name="user_email" required></input>
         <label>Subject</label>
-        <input type ="text" name="user_subject"></input>
+        <input type ="text" name="user_subject" required></input>
         <label>Message</label>
-        <textarea rows="6" placeholder="Type your message here" name="message" />
+        <textarea rows="6" placeholder="Type your message here" name="message" required />
         <input type="submit" value="send" />
 
     </form>
