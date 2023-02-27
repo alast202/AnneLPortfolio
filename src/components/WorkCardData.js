@@ -1,6 +1,7 @@
 import pro1 from "../assets/weather-screenshot.png";
-import pro2 from "../assets/blog-screenshot.png"
-import pro3 from "../assets/memory-screenshot.png"
+import pro2 from "../assets/blog-screenshot.png";
+import pro3 from "../assets/memory-screenshot.png";
+import pro4 from "../assets/chat-app-screenshot.png";
 
 const ProjectCardData =[
     {
@@ -20,7 +21,15 @@ const ProjectCardData =[
         title:"Memory Game",
         text:"I Used the same id for both cards to determine if they are matching. Cards randomize each time page is refreshed.",
         view: "https://github.com/alast202/memory-game"
-    }
+    },
+    {
+        imgsrc: pro4,
+        title:"Chat app",
+        text:"Chat app using ReactJS and NodeJS. User can choose their room name and another user must use the same room name to join.",
+        view: "https://github.com/alast202/chat-app"
+    },
+
+    
 ]
 
 export default ProjectCardData;
