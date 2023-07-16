@@ -11,7 +11,7 @@ const HeroImg = () => {
     <div className="hero">
         <div className="mask">
             <img className="intro-img"
-            src={IntroImg} alt="Intro Image"/>
+            src={IntroImg} alt="Intro Image"/> 
         </div>
         <div className='content'>
           <p>HEY, I'M ANNE LAST.</p>

@@ -19,7 +19,7 @@
 .logo h3{
     padding: 0.5rem;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 
@@ -41,7 +41,7 @@
 }
 
 .navLinks li a{
-    font-size:2rem;
+    font-size:1.3rem;
     font-weight: 500;
 }
 
