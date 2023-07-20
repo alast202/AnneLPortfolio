@@ -2,6 +2,8 @@ import pro1 from "../assets/weather-screenshot.png";
 import pro2 from "../assets/blog-screenshot.png";
 import pro3 from "../assets/memory-screenshot.png";
 import pro4 from "../assets/chat-app-screenshot.png";
+import pro5 from "../assets/snake-game-screenshot.png";
+import pro6 from "../assets/ecommerce-screenshot.png";
 
 const ProjectCardData =[
     {
@@ -27,6 +29,18 @@ const ProjectCardData =[
         title:"Chat app",
         text:"Chat app using ReactJS and NodeJS. User can choose their room name and another user must use the same room name to join.",
         view: "https://github.com/alast202/chat-app"
+    },
+    {
+        imgsrc: pro5,
+        title:"Snake Game",
+        text:"The game features a snake that moves around the screen, attempting to eat apples and grow in length.",
+        view: "https://github.com/alast202/snake-game"
+    },
+    {
+        imgsrc: pro6,
+        title:"Ecommerce App",
+        text:"Simple UI of ecommerce webpage and add to cart function using React.",
+        view: "https://github.com/alast202/ecommerce-app"
     },
 
     
