@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/AnneLPortfolio/static/css/main.de78a580.css",
-    "main.js": "/AnneLPortfolio/static/js/main.3e75cae9.js",
+    "main.css": "/AnneLPortfolio/static/css/main.509f41a6.css",
+    "main.js": "/AnneLPortfolio/static/js/main.6096c0bd.js",
     "static/media/IntroImg.png": "/AnneLPortfolio/static/media/IntroImg.eafa7de46cee0cb4b087.png",
     "static/media/weather-screenshot.png": "/AnneLPortfolio/static/media/weather-screenshot.b62c5d7c06aeb6516fe9.png",
+    "static/media/ecommerce-screenshot.png": "/AnneLPortfolio/static/media/ecommerce-screenshot.0975c71629757486f489.png",
     "static/media/chat-app-screenshot.png": "/AnneLPortfolio/static/media/chat-app-screenshot.2943a4588b915bbc05d9.png",
+    "static/media/snake-game-screenshot.png": "/AnneLPortfolio/static/media/snake-game-screenshot.33f5dc16a255af715747.png",
     "static/media/background2.jpg": "/AnneLPortfolio/static/media/background2.ea6843345e9b74c9479c.jpg",
     "static/media/blog-screenshot.png": "/AnneLPortfolio/static/media/blog-screenshot.cf1d8349b7ae00261b4d.png",
     "static/media/memory-screenshot.png": "/AnneLPortfolio/static/media/memory-screenshot.eecaa623f3018611b7b5.png",
@@ -12,11 +14,11 @@
     "static/media/react2.jpg": "/AnneLPortfolio/static/media/react2.9ac20a9c34d621acfc33.jpg",
     "static/media/logo1.png": "/AnneLPortfolio/static/media/logo1.11235813df0809b9898d.png",
     "index.html": "/AnneLPortfolio/index.html",
-    "main.de78a580.css.map": "/AnneLPortfolio/static/css/main.de78a580.css.map",
-    "main.3e75cae9.js.map": "/AnneLPortfolio/static/js/main.3e75cae9.js.map"
+    "main.509f41a6.css.map": "/AnneLPortfolio/static/css/main.509f41a6.css.map",
+    "main.6096c0bd.js.map": "/AnneLPortfolio/static/js/main.6096c0bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.de78a580.css",
-    "static/js/main.3e75cae9.js"
+    "static/css/main.509f41a6.css",
+    "static/js/main.6096c0bd.js"
   ]
 }
